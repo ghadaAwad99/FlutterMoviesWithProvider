@@ -1,6 +1,6 @@
 # flutter_movies_with_provider
 
-A flutter application that displays a list of movies from API and navigates to details screen using hero navigation, this app is built with Provider pacakge.
+A simple flutter application that displays a list of movies from API and navigates to details screen using hero navigation, this app is built with Provider pacakge.
 
 # Demo:
 
