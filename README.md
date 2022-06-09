@@ -1,16 +1,8 @@
 # flutter_movies_with_provider
 
-A new Flutter project.
+A flutter application that displays a list of movies from API and navigates to details screen using hero navigation, this app is built with Provider pacakge.
 
-## Getting Started
+# Demo:
 
-This project is a starting point for a Flutter application.
+<video src='https://user-images.githubusercontent.com/74993384/172917420-47d9082d-4f3e-461c-9733-0d17ef61dce8.mp4' width=180/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
