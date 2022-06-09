@@ -1,4 +1,4 @@
-# flutter_movies_with_provider
+# Flutter Movies With Provider
 
 A simple flutter application that displays a list of movies from API and navigates to details screen using hero animation, this app is built with Provider pacakge.
 
